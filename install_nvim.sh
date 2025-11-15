@@ -19,4 +19,6 @@ sudo make install
 
 
 # Step 2 Creating the directory
+mkdir -p ~/.config/nvim/ && cd ~/.config/
+mv nvim_config/* nvim/
 

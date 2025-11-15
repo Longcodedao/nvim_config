@@ -1,0 +1,8 @@
+.git/*
+.git/
+
+venv/*
+venv
+
+lazy-lock.json
+lazyvim.json
